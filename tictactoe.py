@@ -29,12 +29,12 @@ def result(num):
 
 
 def round(board, num, symbol):
-    printBoard(board)
     playerTurn(symbol, board, num)
     printBoard(board);
     return result(num)
 
 tieCounter = 0
+printBoard(board)
 while True:
     if(round(board, 1, "X")):
         print("player 1 is the winner")
