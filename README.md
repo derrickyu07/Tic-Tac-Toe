@@ -14,9 +14,9 @@ Tic-Tac-Toe is a classic game where players take turn placing their assigned sym
 
 ## Screenshots
 
-![Figure 1](https://github.com/derrickyu07/Password-Generator/blob/main/screenshot.png?raw=true)
-![Figure 2](https://github.com/derrickyu07/Password-Generator/blob/main/screenshot.png?raw=true)
-![Figure 3](https://github.com/derrickyu07/Password-Generator/blob/main/screenshot.png?raw=true)
+![Figure 1](https://github.com/derrickyu07/Tic-Tac-Toe/blob/main/screenshots/TicTac1.png?raw=true)
+![Figure 2](https://github.com/derrickyu07/Tic-Tac-Toe/blob/main/screenshots/TicTac2.png?raw=true)
+![Figure 3](https://github.com/derrickyu07/Tic-Tac-Toe/blob/main/screenshots/TicTac3.png?raw=true)
 
 ## Technologies
 
